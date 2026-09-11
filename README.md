@@ -1,6 +1,6 @@
 # extracticons
 
-VB6 working copy of `extracticons` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Project1. `VersionCompanyName`: POS Hungaria.
+POS Hungaria VB6 icon browser that opens a DLL/EXE via common-dialog (defaults to `moricons.dll`) and grids extracted icons. Double-click an icon to save it as `.ico`. Output project name `Project1`; OCX: `COMDLG32.OCX`.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
