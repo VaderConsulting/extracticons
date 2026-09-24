@@ -25,7 +25,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/extracticons`.
+Working copy from my Historical Dev folder `VB/Old/extracticons`.
 Company names in project files: POS Hungaria.
 Third-party attribution: POS Hungaria. See `THIRD_PARTY_NOTICES.md`.
 
